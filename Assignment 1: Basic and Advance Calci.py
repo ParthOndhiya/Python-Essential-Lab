@@ -49,9 +49,6 @@ if hard.lower() == "yes":
         print("Invalid choice")
 
 
-
-
-
 -----------------Output------------------
 Simple Calculator
 Enter first number: 10
